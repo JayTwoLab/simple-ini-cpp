@@ -8,6 +8,17 @@
 
 ## Example 
 
+- config.ini
+
+```ini
+[user]
+name=John
+age=99
+admin=true
+```
+
+- main.cpp
+
 ```cpp
 #include "simple-ini.h"
 
