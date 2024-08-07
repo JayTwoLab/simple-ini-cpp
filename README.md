@@ -49,3 +49,7 @@ int main() {
 }
 ```
 
+## License
+
+- simple-ini is under MIT License. https://github.com/JayTwoLab/simple-ini/
+
