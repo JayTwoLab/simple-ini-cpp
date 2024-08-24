@@ -1,10 +1,20 @@
 # simple-ini-cpp
 
-- Simple INI parser for C++ 17
+- Simple INI parser for Modern C++
+- It uses only standard C++17.
 
 ## How to Use
 
-- Just include header file ```simple-ini.h``` 
+- Just include header file ```simple-ini.h```
+```
+#include "simple-ini.h"
+```
+ 
+- Please define C++17 or higher in projects such as cmake.
+```
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+```
 
 ## Example 
 
@@ -51,6 +61,6 @@ int main() {
 
 ## License
 
-- ```simple-ini``` is under MIT License. https://github.com/JayTwoLab/simple-ini-cpp/
+- ```simple-ini-cpp``` is under MIT License. https://github.com/JayTwoLab/simple-ini-cpp/
 
 - It is a part of JayTwo(j2) Library.
