@@ -1,4 +1,4 @@
-# simple-ini
+# simple-ini-cpp
 
 - Simple INI parser for C++ 17
 
@@ -51,6 +51,6 @@ int main() {
 
 ## License
 
-- ```simple-ini``` is under MIT License. https://github.com/JayTwoLab/simple-ini/
+- ```simple-ini``` is under MIT License. https://github.com/JayTwoLab/simple-ini-cpp/
 
 - It is a part of JayTwo(j2) Library.
