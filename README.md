@@ -6,12 +6,12 @@
 ## How to Use
 
 - Just include header file ```simple-ini.h```
-```
+```h
 #include "simple-ini.h"
 ```
  
 - Please define C++17 or higher in projects such as cmake.
-```
+```cmake
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 ```
